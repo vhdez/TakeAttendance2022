@@ -9,5 +9,6 @@ public class TakeAttendance {
         System.out.println("Gia, says: I'm here.");
         System.out.println("Owen, says:I'm here.");
         System.out.println("Chris, says: I'm here.");
+
     }
 }
