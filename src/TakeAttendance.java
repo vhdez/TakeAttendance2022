@@ -7,6 +7,6 @@ public class TakeAttendance {
         System.out.println("It's 2pm.  Please say hi to be marked present.");
         System.out.println("Riley, says: I'm here.");
         System.out.println("Gia, says: I'm here.");
-
+        System.out.println("Chris, says: I'm here.");
     }
 }
