@@ -10,7 +10,6 @@ public class TakeAttendance {
         System.out.println("Elijah, says: I'm here.");
         System.out.println("Owen, really says:I'm here.");
         System.out.println("Chris, says: I'm here.");
-        System.out.println("Siraj, says: I'm here.");
         System.out.println("Dinajda, says: I'm here.");
         System.out.println("Sammy Gee, says: I'm here.");
         System.out.println("Siraj, says: I'm here.");
