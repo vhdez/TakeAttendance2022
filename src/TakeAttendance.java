@@ -12,5 +12,6 @@ public class TakeAttendance {
         System.out.println("Dinajda, says: I'm here.");
         System.out.println("Sammy Gee, says: I'm here.");
         System.out.println("Siraj, says: I'm here.");
+
     }
 }
